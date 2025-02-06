@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate developing captivating designs and web sites! Something that
 people loves...
 - 📫 How to reach me: You can get in touch by my email kevinsehnem123@gmail.com
-- ⚡ Fun fact: I'd do everything for cats!
+
 
 <!---
 KevoGabriel/KevoGabriel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
