@@ -15,7 +15,3 @@ A prodigic Web Developer Full-Stack
 ---
 [![](https://visitcount.itsvg.in/api?id=KevoGabriel&icon=5&color=2)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kevogabriel&show_icons=true&locale=en" alt="kevogabriel" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kevogabriel&" alt="kevogabriel" /></p>
