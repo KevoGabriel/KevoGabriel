@@ -1,5 +1,5 @@
 # 💫 About Me:
-A prodigic Web Developer Full-Stack
+A prodigic Web Developer
 
 
 ## 🌐 Socials:
