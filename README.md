@@ -1,6 +1,5 @@
 # 💫 About Me:
-A prodigic Web Developer
-
+I'm passionate in technologies. In this profile you will find some Full-Stack projects, but my real passion is Cybersecurity and Pentesting, that I hope you find e look for it in my profile :)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kevinsehnem) 
