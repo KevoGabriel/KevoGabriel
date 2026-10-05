@@ -1,4 +1,7 @@
-# About Me:
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=ff9500&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Hello!+I'm+Kevin+Sehnem;Full+%E2%80%A2+Stack+%E2%80%A2+Developer" alt="Typing SVG" />
+</h1>
+
 I'm passionate in technologies. In this profile you will find some Full-Stack projects. I hope you take a closer look at this side of my work :)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kevinsehnem) 
