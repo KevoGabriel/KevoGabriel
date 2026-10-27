@@ -8,16 +8,11 @@ I'm passionate in technologies. In this profile you will find some Full-Stack pr
 
 # Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-# Top Languages:
 
-  <picture>
-    <source
-      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=kevogabriel&langs_count=6&theme=dark_github"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kevogabriel&langs_count=6&theme=light_github" alt="Top Langs" />
-  </picture>
+## GitHub Stats
 
----
-[![](https://visitcount.itsvg.in/api?id=KevoGabriel&icon=5&color=2)](https://visitcount.itsvg.in)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=kevo_gabriel&show_icons=true&theme=tokyonight&include_all_commits=true)
+
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=kevo_gabriel&layout=compact&theme=tokyonight)
+
 
