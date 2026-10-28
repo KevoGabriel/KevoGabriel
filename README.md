@@ -12,9 +12,9 @@ I'm passionate in technologies. In this profile you will find some Full-Stack pr
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-tawny-nine-51.vercel.app/api?username=KevoGabriel&show_icons=true&theme=tokyonight&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats-tawny-nine-51.vercel.app/api?username=KevoGabriel&show_icons=true&theme=great-gatsby&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats-tawny-nine-51.vercel.app/api/top-langs/?username=KevoGabriel&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-tawny-nine-51.vercel.app/api/top-langs/?username=KevoGabriel&theme=great-gatsby)
 
 
 
